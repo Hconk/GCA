@@ -1,22 +1,5 @@
 GCA Core integration/staging tree
 =====================================
-
-[![Build Status](https://travis-ci.org/gca-project/gca.svg?branch=master)](https://travis-ci.org/gca-project/gca)
-
-https://gca.org
-
-What is GCA?
-----------------
-
-GCA is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. GCA uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. GCA Core is the name of open source
-software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the GCA Core software, see [https://gca.org](https://gca.org).
-
 License
 -------
 
